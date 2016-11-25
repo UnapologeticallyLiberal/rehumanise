@@ -16,8 +16,14 @@ which opposed the original Nazi regime in the early 1940s.
 
 ![screenshot1]
 
+Replaces the Breitbart logo with something more appropriate that,
+conveniently, also doesn't look like it was ripped off of Google's 
+Blogger trademark.
+![screenshot2]
+
 [logo]: img/icon64.png
 [issue-link]: https://github.com/UnapologeticallyLiberal/rehumanise/issues
 [White-Rose-Wiki]: https://en.wikipedia.org/wiki/White_Rose
 [screenshot1]: doc/rehumanise1.png
 [releases]: https://github.com/UnapologeticallyLiberal/rehumanise/releases
+[screenshot2]: doc/rehumanise2.png
