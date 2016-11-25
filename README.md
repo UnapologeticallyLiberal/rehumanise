@@ -1,5 +1,6 @@
 # ![logo] rehumanise ![logo]
 
+[Download browser extension (Chrome/Firefox/Opera][releases]
 
 A cross-browser extension that seeks to unmask evil for what it is.
 
@@ -19,3 +20,4 @@ which opposed the original Nazi regime in the early 1940s.
 [issue-link]: https://github.com/UnapologeticallyLiberal/rehumanise/issues
 [White-Rose-Wiki]: https://en.wikipedia.org/wiki/White_Rose
 [screenshot1]: doc/rehumanise1.png
+[releases]: https://github.com/UnapologeticallyLiberal/rehumanise/releases
