@@ -28,6 +28,7 @@
                 "*://*/*"
             ],
             "js": [
+                "lib/browser-polyfill.js",
                 "content.js"
             ],
             "run_at": "document_end"
@@ -37,6 +38,7 @@
                 "http://www.breitbart.com/*"
             ],
             "js": [
+                "lib/browser-polyfill.js",
                 "breitbart.js",
                 "content.js"
             ],
